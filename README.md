@@ -13,4 +13,4 @@ Dados 📊
 
 Dados Tempos Real 📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/daniloddn41/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloddn41)](https://github.com/daniloddn41/github-readme-stats)
